@@ -384,6 +384,7 @@ _________________
 - Sekarang kita boleh mencuba jalankan *project* kita untuk melihat output berdasrkan permissions, silakan buka di http://localhost:8000/home.
 
 - Anda boleh mencuba login dengan user yang berlainan untuk melihat hasilnya.
+
         1. email : admin@gmail.com dan pass : password
         2. email : computer@gmail.com dan pass : password
 
